@@ -49,5 +49,5 @@ The paper's tests demonstrate that the proposed model achieves the best balance 
 * Performance Metrics: mAP, FLOPS, FPS, Latency
 
 ## 📂 Presentation File
-The presentation file (`.pdf` or `.pptx`) can be found in this repository:
-[Link to your presentation file, e.g., Mehmet Ali Yılmaz - IoT Course Article Presentation.pdf]
+The presentation file (`.pptx`) can be found in this repository:
+
